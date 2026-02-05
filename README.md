@@ -31,7 +31,6 @@ pip install -r requirements.txt
 
 ### Download Datasets
 
-## Download Datasets
 This repository provides only a toy dataset.
 Please download the complete dataset from Hugging Face.
 Organize the downloaded files according to the following directory structure.
@@ -47,9 +46,7 @@ EUQ/
             └── COCO_val2014_000000563927.jpg
 
 ```
-## Prepare LVLMs weights
-
-## Prepare LVLMs Weights
+### Prepare LVLMs weights
 
 Users must obtain the head weights of LVLMs as `.pth` files.
 Place these files in the `EUQ/weights` directory. The **EUQ** framework requires these weights for model evaluation.
