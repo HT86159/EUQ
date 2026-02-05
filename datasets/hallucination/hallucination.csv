@@ -1,0 +1,10 @@
+index,question,A,B,C,D,answer,image,hallucination_type
+2,Is there a car in the image?,yes,no,,,B,COCO_val2014_000000377730.jpg,perception*instance
+4,Is there a couch in the image?,yes,no,,,B,COCO_val2014_000000377730.jpg,perception*instance
+6,Is there a spoon in the image?,yes,no,,,B,COCO_val2014_000000377730.jpg,perception*instance
+8,Is there a car in the image?,yes,no,,,B,COCO_val2014_000000563927.jpg,perception*instance
+10,Is there a baseball glove in the image?,yes,no,,,B,COCO_val2014_000000563927.jpg,perception*instance
+12,Is there a chair in the image?,yes,no,,,B,COCO_val2014_000000563927.jpg,perception*instance
+14,Is there a person in the image?,yes,no,,,B,COCO_val2014_000000108681.jpg,perception*instance
+16,Is there a chair in the image?,yes,no,,,B,COCO_val2014_000000108681.jpg,perception*instance
+18,Is there a bowl in the image?,yes,no,,,B,COCO_val2014_000000108681.jpg,perception*instance

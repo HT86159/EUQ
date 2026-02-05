@@ -1,6 +1,8 @@
 # Data and weights
-datasets/
-weights/
+# datasets/
+weights/Qwen2.5_attention_weights.pth
+weights/Qwen2.5_head_weights.pth
+script/huangtao/
 
 # Python cache
 __pycache__/
