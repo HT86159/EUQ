@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### Download Datasets
 
 This repository provides only a toy dataset.
-Please download the complete dataset from Hugging Face.
+Please download the complete dataset from [Misbehavior-Bench](https://huggingface.co/datasets/thuang5288/Misbehavior-Bench).
 Organize the downloaded files according to the following directory structure.
 
 ```text
