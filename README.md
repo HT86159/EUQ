@@ -1,6 +1,6 @@
 # Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification
 
-This repository contains the official implementation for the ICLR 2026 paper \texbf{[Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification](https://openreview.net/forum?id=xJT4fXJr1Q)}.
+This repository contains the official implementation for the ICLR 2026 paper {[Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification](https://openreview.net/forum?id=xJT4fXJr1Q)}.
 
 ## Hardware Dependencies
 
