@@ -118,8 +118,9 @@ The results for any run can be obtained by passing the associated `wandb_id` to 
 Please cite our work if it helps your research.
 ```bibtex
 @inproceedings{huang2026detecting,
-  title     = {Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification},
-  author    = {Huang, Tao and Wang, Rui and Liu, Xiaofei and Qin, Yi and Duan, Li and Jing, Liping},
-  booktitle = {International Conference on Learning Representations (ICLR)},
-  year      = {2026}
+title={Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification},
+author={Tao Huang and Rui Wang and Xiaofei Liu and Yi Qin and Li Duan and Liping Jing},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=xJT4fXJr1Q}
 }
